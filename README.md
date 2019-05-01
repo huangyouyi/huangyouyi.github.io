@@ -4,7 +4,7 @@
 > * [HoTMaiL](https://outlook.com)
 > * [teambition](https://www.teambition.com)
 > * [DRL](https://dream4ever.org)
-> * geek's **blog**, only [Octopress](http://octopress.org)
+> * geek's **blog**, only [Hexo](https://hexo.io)
 > * in-browser **Markdown** editor [StackEdit](https://stackedit.io)
 > * [Font Awesome](https://fontawesome.com)
 > * [ddrk.me](http://ddrk.me)
