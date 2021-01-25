@@ -13,6 +13,11 @@
 > * [Font Awesome](https://fontawesome.com)
 > * [ddrk.me](http://ddrk.me)
 
+##工作
+> * [ERP](https://v3.kuguanwang.com/v3-pc/#/layout/index)
+> * [CRM](https://www.fxiaoke.com/XV/Home/Index#crm/index)
+> * [TAPD 项目管理](https://www.tapd.cn)
+
 <i class="fab fa-chrome fa-lg"></i>
 ```
 
