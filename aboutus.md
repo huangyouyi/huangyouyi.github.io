@@ -28,7 +28,7 @@
 ### 我们的产品
 
 #### WFE01 图传Wi-Fi模块
-![WFE01 图传Wi-Fi模块](https://github.com/huangyouyi/huangyouyi.github.io/blob/master/image/cube%20WFE01%20PIC.png "cube unite")
+![WFE01 图传Wi-Fi模块](https://github.com/huangyouyi/huangyouyi.github.io/blob/master/image/cube%20WFE01%20PIC.png "cube unite WFE01 图传Wi-Fi模块")
 
 ###### 产品概述
 集成了超低功耗 32-bit 微型MCU，带有 16-bit 精简模式，主频支持 80 MHz 和 160 MHz，支持 RTOS，集成 Wi-Fi MAC/ BB/RF/PA/LNA。  
@@ -65,7 +65,7 @@ WFE01 Wi-Fi 模块支持标准的 IEEE 802.11 b/g/n 协议，内置完整的 TCP
 
 
 #### WFX01 视频对讲Wi-Fi模块
-![WFX01 视频对讲Wi-Fi模块](https://github.com/huangyouyi/huangyouyi.github.io/blob/master/image/cube%20WFX01%20PIC.png "cube unite")
+![WFX01 视频对讲Wi-Fi模块](https://github.com/huangyouyi/huangyouyi.github.io/blob/master/image/cube%20WFX01%20PIC.png "cube unite WFX01 视频对讲Wi-Fi模块")
 
 ###### 产品概述
 集成了高性能 32-bit 微型MCU，主频高达 380MHz，低功耗 802.11b/g/n WLAN子系统，包含 Wi-Fi MAC/ BB/RF/PA/LNA。  
