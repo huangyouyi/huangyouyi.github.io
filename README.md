@@ -1,5 +1,3 @@
-```Markdown
-```
 
 ```
 # aa.la `#index#`
